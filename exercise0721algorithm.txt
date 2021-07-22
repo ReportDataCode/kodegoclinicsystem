@@ -1,0 +1,25 @@
+Algorithm
+1.New Patient go into the hospital.
+2.The patient will fill up the covid 19 health status form.
+3.The patien fill up the health information form.
+    a. patient write the name.
+    b.patient write his age
+    c. write address.
+    d.write gender.
+    5.write height and weight
+    write if his concern is urgent.
+
+6. If patient has covid 19 health
+7.Restrict access to clinic
+8 If patient has no covid 19 
+9permit access to clinical
+
+11 if patient is emergency patient with no covid 19.
+12.seek available doctors and nurses
+13 if patient status regularl
+14 give him queue number.
+15 if patient is well.
+16 calculate patient cost
+16.if patient is ill.
+18 heal him
+
