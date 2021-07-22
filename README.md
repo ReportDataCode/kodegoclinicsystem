@@ -6,6 +6,5 @@ made with
 -CSS
 -Bootstrap v5
 
-##In academic accomplishment with KodeGoExercise on July 22,2021!
-
+## In academic accomplishment with KodeGoExercise on July 22,2021!
 [] ReportDataCode
